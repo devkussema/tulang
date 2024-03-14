@@ -3,6 +3,7 @@
     "description": "Um pacote PHP simples para tradução de texto com base em web scraping.",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Augusto Kussema",
@@ -15,6 +16,6 @@
         }
     },
     "require": {
-        "php": "^7.4"
+        "php": "^7.0 || ^8.0"
     }
 }

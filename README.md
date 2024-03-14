@@ -14,6 +14,6 @@ composer require devkussema/tulang
 
 > **Versão**: [1.0.0](https://github.com/devkussema/tulang/releases/tag/1.0.0)
 
-> **Nome Pacote**: [Traduzier](https://github.com/devkussema/tulang)
+> **Nome Pacote**: [TuLang](https://github.com/devkussema/tulang)
 
 > **Autor**: [Augusto Kussema](https://github.com/devkussema)

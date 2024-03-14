@@ -12,7 +12,7 @@ Você pode instalar este pacote via Composer. Execute o seguinte comando no term
 composer require devkussema/translator
 ```
 
-> **Versão**: 1.0.0
+> **Versão**: [1.0.0](https://github.com/devkussema/translator/releases/tag/1.0.0)
 
 > **Nome Pacote**: [Translator](https://github.com/devkussema/translator)
 

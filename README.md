@@ -1,4 +1,4 @@
-# Documentação do Pacote devkussema/translator
+# Documentação
 
 ## Visão Geral
 

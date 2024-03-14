@@ -1,0 +1,20 @@
+{
+    "name": "devkussema/translator",
+    "description": "Um pacote PHP simples para tradução de texto.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Augusto Kussema",
+            "email": "dev.kussema@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Devkussema\\Translator\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}

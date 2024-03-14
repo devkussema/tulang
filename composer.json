@@ -1,6 +1,6 @@
 {
     "name": "devkussema/translator",
-    "description": "Um pacote PHP simples para tradução de texto.",
+    "description": "Um pacote PHP simples para tradução de texto com base em web scraping.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,6 +15,6 @@
         }
     },
     "require": {
-        "php": "^8.0"
+        "php": "^7.4"
     }
 }
